@@ -1,0 +1,3 @@
+pyobjc
+pyperclip
+libimobiledevice
